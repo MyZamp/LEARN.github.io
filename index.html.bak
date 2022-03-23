@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+  <html>
+
+<head>
+<link href="style.css" rel="stylesheet">
+
+ <title>
+QURAN LEARNING
+ </title>
+
+</head>
+
+<body>
+
+<header>
+<div class="a">
+
+<a href="index.html" target="blank"> HOME </a>
+<a href="about.html" target="blank"> LEARN MORE </a>
+ 
+</div>
+</header>
+
+<center>
+ <h1>
+ <b> LEARN QURAN <b> 
+ </h1>
+<h2>
+
+Have Islamic Studies At Home
+</h2>
+</center>
+
+ <p> 
+<center>  </center>
+ </p>
+<center><img src="https://topquranclasses.com/wp-content/uploads/2020/09/Learn-Quran-Memorization-Top-Quran-Classes.png" width="300" height="300">
+</center>
+
+<p><center>
+we will make it easy for you to learn Quran at home with the best teachers
+<br>join today by contacting us    
+</center>
+</p>
+<h3>
+031-42965636 <br> sumrantahir786@gmail.com
+</h3>
+
+
+<div class="footer-container">
+<div class="footer">
+<div class="footer-heading footer-1">
+<h7>about us</h7>
+<a href="#">blog</a>
+<a href="#">demo</a>
+<a href="#">custumer</a>
+<a href="#">invester</a>
+<a href="#">term of serves</a>
+</div>
+<div class="footer-heading footer-2">
+<h7>contacts us</h7>
+<a href="#">jobs</a>
+<a href="#">supports</a>
+<a href="#">contacts</a>
+<a href="#">sponsorships</a>
+</div>
+<div class="footer-heading footer-3">
+<h7>social media</h7>
+<a href="#">facebook</a>
+<a href="#">instagram</a>
+<a href="#">twiter</a>
+</div>
+<div class="footer-email-form">
+<h7>JOIN US NOW</h7>
+<input type="email" placeholder="enter your email here" id="footer-email">
+<input type=-"submit" placeholder="sign up" id="footer-email-btn">
+</div>
+</div>
+</div>
+
+</body>
+
+
+
+   </html>
